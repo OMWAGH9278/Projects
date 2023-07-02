@@ -1,4 +1,4 @@
-package emailapp;
+package email;
 
 public class EmailApp {
 

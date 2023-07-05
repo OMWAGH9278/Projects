@@ -1,6 +1,9 @@
-# Projects
+#Projects
 
 https://github.com/OMWAGH9278/Projects.git
 
 ![Run CVFS](Images/run_cvfs.jpg)
+![Help command](Images/help.jpg)
+![Man command](Images/man.jpg)
+![Create File](Images/create_file.jpg)
 
